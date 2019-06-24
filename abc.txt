@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 m1
+=======
+f21
+
+>>>>>>> f22: updated abc.txt xyz.txt
